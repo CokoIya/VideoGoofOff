@@ -20,8 +20,8 @@ A Smart Camera Monitor Tool for Discreet Workspace Management
 ## 🇨🇳 中文版
 
 ### 🌟 功能简介
-- **实时摄像头监控**：捕捉指定区域画面，支持旋转和镜像处理  
-- **动态变化检测**：当画面发生显著变化时自动隐藏指定窗口（如老板靠近！👀）  
+- **实时摄像头监控**：AI捕捉指定区域画面，支持旋转和镜像处理 
+- **动态变化检测**：当OpenCV识别到画面发生显著变化时自动隐藏指定窗口（如老板靠近！👀）  
 - **透明置顶窗口**：可调节透明度，完美融入工作环境  
 - **30秒自动恢复**：触发隐藏后，30秒自动恢复窗口显示  
 - **一键EXE版**：[Releases](https://github.com/CokoIya/VideoGoofOff/releases) 直接下载，无需Python环境  
@@ -104,7 +104,7 @@ Let's build the ultimate "productivity tool"!
 
 MIT License - Use freely, but we're not liable if your boss catches you!
 
-——————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————
 
 <a name="日本語"></a>
 🇯🇵 日本語版
