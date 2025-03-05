@@ -30,7 +30,6 @@ A Smart Camera Monitor Tool for Discreet Workspace Management
 - **Orbbec摄像头暂不支持**：奥比中光深度摄像头需额外SDK适配（欢迎提交PR！🤝）  
 
 ### 🛠️ 快速开始
-```bash
 # 克隆仓库
 git clone https://github.com/CokoIya/VideoGoofOff.git
 cd VideoGoofOff
@@ -56,10 +55,9 @@ python VideoPlayer.py
 📜 许可证
 
 MIT License - 自由使用/修改/分享，但上班摸鱼被老板发现后果自负 😉
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 <a name="english"></a>
-##🇺🇸 English Version
+🇺🇸 English Version
 🌟 Features
 
     Real-time Camera Monitoring: Capture specific ROI with rotation/flip support
@@ -77,8 +75,6 @@ MIT License - 自由使用/修改/分享，但上班摸鱼被老板发现后果�
     Orbbec Cameras Unsupported: Requires specific SDK integration (PRs welcome!)
 
 🛠️ Quick Start
-bash
-复制
 
 # Clone repo
 git clone https://github.com/CokoIya/VideoGoofOff.git
@@ -105,10 +101,9 @@ Let's build the ultimate "productivity tool"!
 📜 License
 
 MIT License - Use freely, but we're not liable if your boss catches you!
-——————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 <a name="日本語"></a>
-##🇯🇵 日本語版
+🇯🇵 日本語版
 🌟 主な機能
 
     リアルタイム監視: 指定領域を捕捉、回転・反転処理対応
@@ -126,8 +121,6 @@ MIT License - Use freely, but we're not liable if your boss catches you!
     Orbbecカメラ未対応: 専用SDK統合が必要です（PR大歓迎！）
 
 🛠️ クイックスタート
-bash
-复制
 
 # リポジトリをクローン
 git clone https://github.com/CokoIya/VideoGoofOff.git
