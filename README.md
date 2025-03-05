@@ -8,7 +8,16 @@ A Smart Camera Monitor Tool for Discreet Workspace Management
 
 ---
 
-## 中文 | [English](#english) | [日本語](#日本語)
+<p align="center">
+  <a href="#中文">中文</a> • 
+  <a href="#english">English</a> • 
+  <a href="#日本語">日本語</a>
+</p>
+
+---
+
+<a name="中文"></a>
+## 🇨🇳 中文版
 
 ### 🌟 功能简介
 - **实时摄像头监控**：捕捉指定区域画面，支持旋转和镜像处理  
@@ -49,7 +58,7 @@ python VideoPlayer.py
 MIT License - 自由使用/修改/分享，但上班摸鱼被老板发现后果自负 😉
 
 <a name="english"></a>
-English | 中文 | 日本語
+🇺🇸 English Version
 🌟 Features
 
     Real-time Camera Monitoring: Capture specific ROI with rotation/flip support
@@ -97,7 +106,7 @@ Let's build the ultimate "productivity tool"!
 MIT License - Use freely, but we're not liable if your boss catches you!
 
 <a name="日本語"></a>
-日本語 | 中文 | English
+🇯🇵 日本語版
 🌟 主な機能
 
     リアルタイム監視: 指定領域を捕捉、回転・反転処理対応
